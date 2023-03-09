@@ -13,6 +13,7 @@ openai-whisper = "^20230124"
 setuptools-rust = "^1.5.2"
 torchvision = "^0.14.1"
 torchaudio = "^0.13.1"
+pipwin = "^0.5.2"
 
 
 [build-system]
